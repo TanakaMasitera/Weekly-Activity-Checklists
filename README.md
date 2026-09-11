@@ -1,9 +1,9 @@
 # Week 1 - Activity Checklist #1
 
-##OBJECTIVE
+## OBJECTIVE
 To provide you with a tool to track your progress in completing required activities throughout the semester.
 
-##WHAT YOU'RE GOING TO DO:
+## WHAT YOU'RE GOING TO DO:
 - Every time you do activity work (i.e. Google CodeLabs) for this class:
 - Open up your Activity Checklist.
 - Record the time you start the activity.
