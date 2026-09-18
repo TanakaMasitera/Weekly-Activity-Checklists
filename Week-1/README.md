@@ -1,26 +1,33 @@
-# Weekly Activity Checklists
+# Week 1
 
-## OBJECTIVE
+## Activity 1: Your First Program in Kotlin
 
-To provide you with a tool to track your progress in completing required activities throughout the semester.
+### What I Learned
 
-## WHAT YOU'RE GOING TO DO:
+In this activity, I was introduced to Kotlin and used Kotlin Playground to run my first program. I learned that a Kotlin program starts from the `main()` function and that `println()` is used when I want to display text in the output.
 
-- Every time you do activity work (i.e. Google CodeLabs) for this class:
-- Open up your Activity Checklist.
-- Record the time you start the activity.
-- Write down any questions you have along the way.
-- Record the time you finish the activity.
-- Fill in other cells as appropriate.
+I also learned the basic parts of a function. A function starts with the `fun` keyword, followed by the function name, parentheses, and curly braces containing the code that should run.
 
-## SUGGESTIONS AND STRATEGIES:
+Another thing I learned was that Kotlin is very specific about how code is written. Missing quotation marks, using the wrong brackets, or spelling a function incorrectly can cause an error.
 
-> Do this every time you do assigned work - it's going to be waaaay easier keeping up that way.
-> Be honest! Filling this out honestly will give you a meaningful record for your self-evaluation.
-> If you ever have unanswered questions left over after finishing an activity, or a unit, post them on Slack so that we can discuss about it in the following class - there is a good chance someone has found an answer, or would be willing to help you find it.
+### What I Accomplished
 
-## SUBMISSION GUIDELINES:
+- Ran my first program and displayed `Hello, world!`
+- Changed the message to `Hello, Android!`
+- Printed the same message more than once
+- Changed the program to display my own name
+- Practiced printing several lines of text
+- Put the days of the week in the correct order
+- Fixed errors involving missing quotation marks and curly braces
+- Corrected `printLine()` to `println()`
+- Practiced keeping each statement on its own line
 
-- In the GitHub README.md file, write down what you have learned in this week and write down the accomplishments and some challenges that you faced in the process of doing the weekly activity. If you don't know how to write in markdown language in GitHub, please refer to this [link](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-- Use the following template as an example to create your own first activity checklist: [Activity Checklist Template](https://docs.google.com/spreadsheets/d/1jTBIJfgDkYe-HZrR8PKGQ__ljNAOs3v73gf003IY3y0/edit?usp=sharing)
-- You need to upload this template as an excel or PDF by filling out with your information in the Brightspace assignment submission.
+### Challenges
+
+One challenge was understanding the different symbols used in Kotlin, especially parentheses `()` and curly braces `{}`. I also had to pay attention to quotation marks when printing text.
+
+The troubleshooting exercises were useful because I could see how a small mistake can stop the whole program from running. Reading the error and comparing my code with the expected output helped me find the mistakes.
+
+### My Progress
+
+After completing this activity, I have a better understanding of how a simple Kotlin program is structured. I am still new to Kotlin, but I can now write a basic `main()` function, use `println()` to display information, and identify some simple coding errors.
